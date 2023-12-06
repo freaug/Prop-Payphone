@@ -22,11 +22,13 @@ This is the keypad from the pay phone.  To access the row/columns matrix we need
 
 Here is the keypad broken down into the metal numbers, the membrane, and the PCB.  
 
-
-
 ### Receiver Switch
 
+![](/media/receiver_Switch.jpg)
+
 ### Receiver Speaker
+
+![](/media/receiver.jpg)
 
 
 
