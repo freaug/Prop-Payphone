@@ -1,0 +1,28 @@
+Audio File # - Sound Associated
+
+0000 - touch tone 0
+0001 - touch tone 1
+0002 - touch tone 2
+0003 - touch tone 3
+0004 - touch tone 4
+0005 - touch tone 5
+0006 - touch tone 6
+0007 - touch tone 7
+0008 - touch tone 8
+0009 - touch tone 9
+0010 - touch tone #
+0011 - touch tone *
+
+0012 - dial tone
+
+0013 - Incorrect Numer Audio
+
+Audio File # - Phone Number Associated 
+
+0020 - 4041257 
+0021 - 5555555
+0022 - 1177707
+0023 - 1173305
+0024 - 2243577
+
+Audio files must be named numerically as listed above.  To change the audio file associated with a phone number create a new audio file and name it 0020, etc. 
