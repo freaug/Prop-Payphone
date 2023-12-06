@@ -9,7 +9,8 @@ Here are some issues I ran into while converting an old pay phone into a prop fo
 
 ### Parts
 
-The pay phone was ordered from <a href="payphone.com>payphone.com</a> I think any would work off the site since we're not using it as intended.  The only pieces that we are going to be dealing with are the keypad itself, the receiver switch, and the speaker of the receiver. 
+The pay phone was ordered from     <a href="https://www.payphone.com">Payphone.com</a>
+ I think any would work off the site since we're not using it as intended.  The only pieces that we are going to be dealing with are the keypad itself, the receiver switch, and the speaker of the receiver. 
 
 ### Payphone Keypad
 
