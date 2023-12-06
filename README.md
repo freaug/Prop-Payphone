@@ -13,6 +13,15 @@ The pay phone was ordered from     <a href="https://www.payphone.com">Payphone.c
 
 ### Payphone Keypad
 
+How a keypad works is outside the scope of this document but <a href="https://www.jameco.com/Jameco/workshop/JamecoBuilds/working-with-matrix-keypads.html">here</a> is a link to a good explanation.  
+
+![](/media/keypad.jpg)
+This is the keypad from the pay phone.  To access the row/columns matrix we need to remove the PCB from the enclosure.
+</br>
+![](/media/keypad_apart.jpg)
+
+Here is the keypad broken down into the metal numbers, the membrane, and the PCB.  
+
 
 
 ### Receiver Switch
