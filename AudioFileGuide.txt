@@ -1,3 +1,5 @@
+###Current Audio###
+
 Audio File # - Sound Associated
 
 0000 - touch tone 0
@@ -25,4 +27,14 @@ Audio File # - Phone Number Associated
 0023 - 1173305
 0024 - 2243577
 
-Audio files must be named numerically as listed above.  To change the audio file associated with a phone number create a new audio file and name it 0020, etc. 
+###Updating Audio###
+
+Audio files must be named numerically as listed above for the audio player to be able to play them.
+
+For example if the user types in the phone number 4041257 then audio file 0020 will be played.
+
+There are currently place holder audio files on the mp3 player.  To udated these you will need to create your own audio files and name them appropriatly.  
+
+For example if you wanted to update the audio for telephone number 4041257 you would save the audio file as 0020.mp3 or 0020.wav (The file extension would be dependent on what the software you used to create the file saves it as) then you would copy that file to the microSD card that is in the audio player.  
+
+ 
