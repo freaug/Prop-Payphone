@@ -82,6 +82,7 @@ void setup() {
   mp3_set_serial(mySerial);
   mp3_set_volume(8);
 
+  //Receiver pin, used to get the state of the receiver on or off the hook
   pinMode(12, INPUT_PULLUP);
 }
 
