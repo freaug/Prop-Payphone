@@ -44,3 +44,7 @@ This is the actual receiver for the phone.  It's a little tricky to remove becau
 ![](/media/arduino.jpg)
 </br></br>
 Here is the Arduino Uno with the Electronics-Salon Shield and a homemade audio hat with a DFPlayer audio player on top. Ihop tall stack. 
+### Schematic 
+</br></br>
+![](/media/Schematic.pdf)
+</br></br>
